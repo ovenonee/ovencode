@@ -14,7 +14,7 @@ cv2:  `pip install cv2`
 
 ## 使用教程：  
 0.克隆仓库中的所有文件：  
-git clone https://github.com/ovenonee/oven.git
+git clone https://github.com/ovenonee/oven.git  
 1.下载数据集，找到数据集中的RM-ARMOR-COCO文件夹并将其保存到rmjian目录下，运行dataconvert.py以将coco数据集中的json文件转化为txt文件,并生成data.yaml文件  
 2.安装依赖后，运行cudatest.py和camtest.py以测试是否成功安装  
 3.调整train_.py中的参数后运行进行训练  
