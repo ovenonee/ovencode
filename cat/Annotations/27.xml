@@ -1,0 +1,38 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename> 27.jpg</filename>
+	<path>D:\oven\ovenrm\cat\JPEGImages\ 27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>1111</ymin>
+			<xmax>1791</xmax>
+			<ymax>2130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2632</xmin>
+			<ymin>709</ymin>
+			<xmax>3777</xmax>
+			<ymax>2218</ymax>
+		</bndbox>
+	</object>
+</annotation>

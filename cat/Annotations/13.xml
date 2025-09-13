@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename> 13.jpg</filename>
+	<path>D:\oven\ovenrm\cat\JPEGImages\ 13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>42</ymin>
+			<xmax>3551</xmax>
+			<ymax>2428</ymax>
+		</bndbox>
+	</object>
+</annotation>

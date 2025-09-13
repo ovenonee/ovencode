@@ -1,0 +1,7 @@
+train: D:/oven/ovenrm/cat/images/train
+val: D:/oven/ovenrm/cat/images/val
+test: D:/oven/ovenrm/cat/images/test
+nc: 2
+names:
+- white
+- black
